@@ -60,6 +60,14 @@ FUSD is an experimental digital asset.
 Nothing in this repository, website, or documentation constitutes financial advice, investment solicitation, or a promise of value.
 
 Users and participants are responsible for conducting their own research (DYOR).
+## CoinMarketCap Verification
+
+This repository and website are officially maintained by the Fun United Dollar Cultura (FUSD) team.
+
+We are requesting access to CoinMarketCap Self-Reporting Dashboard.
+
+Official contact: support@funfilabs.com  
+Website: https://supportfunfilabs.github.io/funusd.github.io/
 
 ---
 
